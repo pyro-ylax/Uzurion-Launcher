@@ -1,12 +1,12 @@
 {
-  "name": "Uzurion-Launcher",
+  "name": "OcatariaRP-Launcher",
   "version": "2.0.1",
-  "productName": "Uzurion Launcher",
-  "description": "Uzurion Launcher",
+  "productName": "OcatariaRP Launcher",
+  "description": "OcatariaRP Launcher",
   "main": "app/index.html",
   "author": "Luuxis",
   "window": {
-    "title": "Uzurion update",
+    "title": "OcatariaRP update",
     "width": 400,
     "height": 500,
     "frame": false,
@@ -50,16 +50,16 @@
     ],
     "outputPattern": "${NAME}-${VERSION}-${PLATFORM}",
     "win": {
-      "productName": "Uzurion Launcher",
-      "companyName": "Uzurion Launcher",
+      "productName": "OcatariaRP Launcher",
+      "companyName": "OcatariaRP Launcher",
       "copyright": "copyright",
       "icon": "./app/assets/images/icons/icon.ico"
     },
     "mac": {
-      "displayName": "Uzurion-Launcher",
+      "displayName": "OcatariaRP-Launcher",
       "copyright": "copyright",
       "plistStrings": {
-        "CFBundleIdentifier": "Uzurion-Launcher"
+        "CFBundleIdentifier": "OcatariaRP-Launcher"
       }
     },
     "nsis": {
